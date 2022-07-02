@@ -1,9 +1,21 @@
 {
   "todos": [
     {
-      "id": 0.18445367427103498,
-      "title": "task 1",
+      "id": 0.0028424372810003096,
+      "title": "go to supermarket",
+      "time": "0.5",
+      "done": false
+    },
+    {
+      "id": 0.7802725104383705,
+      "title": "pick up Joana @ airport",
       "time": "2",
+      "done": true
+    },
+    {
+      "id": 0.6973546797930441,
+      "title": "study study study!!",
+      "time": "300",
       "done": false
     }
   ]
